@@ -2,6 +2,8 @@
 
 ## Assistive Technology Specialist Role Competencies Framework
 
+https://www.barnsleyhospital.nhs.uk/assistive-technology/
+
 | Level | Experience and skills | Knowledge |
 | ----- | ----- | ----- |
 | 1	| Observationinput to debriefing | Theoretical knowledge |
@@ -13,6 +15,8 @@
 | 7	| Working on highly complex cases, act as source of expertise nationally.	| Research and evaluate new techniques/topics. Write papers of studies.|
 
 ## IPAACKS
+
+https://www.nes.scot.nhs.uk/education-and-training/by-discipline/allied-health-professions/augmentative-and-alternative-communication-(aac).aspx
 
 | Level | Knowledge |
 | ---- | ---- |
@@ -34,6 +38,8 @@ https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale
 | 5 | Expert (recognized authority)
 
 ## RESMAG
+
+https://www.dropbox.com/sh/1uyqkr0eziywdnb/AABjtX9lzijQsQID2wswejjLa?dl=0
 
 | Level | Description |
 | ----- | ----- | 
