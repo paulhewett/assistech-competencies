@@ -8,6 +8,7 @@ It can be useful at times to use the access method for mobility to control other
   * Linx
   
 Be able to identify the wheelchair control system
+Indentify suitable lines of support from manufacturer, peers or other experts
 
 Identify a suitable location for a BT module
 Swap a joystick unit like for like
