@@ -26,7 +26,7 @@
 https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale
 
 | Level | Description |
-| ----- | ----- | ----- |
+| ----- | ----- |
 | 1 | Fundamental awareness (basic knowledge) |
 | 2 | Novice (limited experience) |
 | 3 | Intermediate (practical application) |
