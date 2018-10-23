@@ -3,6 +3,7 @@ THere are some proficiency frameworks
 Assistive Technology uses seven levels
 
 | Level | Experience and skills | Knowledge |
+| ----- | ----- | ----- |
 | 1	| Observationinput to debriefing | Theoretical knowledge |
 | 2 | Providing assistance under direct instruction. | Practical understanding |
 | 3	| Carry out the task with immediate supervision. | Application of information and knowledge. |
