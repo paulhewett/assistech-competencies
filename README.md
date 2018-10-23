@@ -1,2 +1,3 @@
-# assistech-competencies
-Gathering a few thoughts and the current state of competencies in assistive technology
+# Assistive Technology Competencies
+
+I'm just trying to gather here thought and current resources do develop frameowkrs in Assistive Technology.
