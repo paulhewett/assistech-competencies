@@ -1,6 +1,6 @@
-THere are some proficiency frameworks
+# Proficiency Frameworks
 
-Assistive Technology uses seven levels
+## Assistive Technology Specialist Role Competencies Framework
 
 | Level | Experience and skills | Knowledge |
 | ----- | ----- | ----- |
@@ -12,23 +12,31 @@ Assistive Technology uses seven levels
 | 6	| Acting as a source of expertise within the team. | Supervising others.	Train specialists, present at conferences. Write case presentations/papers. |
 | 7	| Working on highly complex cases, act as source of expertise nationally.	| Research and evaluate new techniques/topics. Write papers of studies.|
 
-Engineering Processes
+## IPAACKS
 
-Assistive Technology
+| Level | Knowledge |
+| ---- | ---- |
+| Skill Level 1 | Awareness and understanding |
+| Skill Level 2 | Detailed understanding |
+| Skill Level 3 | Enhanced awareness and understanding |
+| Skill Level 4 | Expert understanding, knowledge and skill |
 
+## Competency Proficiency Scale
 
-Skill Descriptors
-IPAACKS
-Skill Level 1 - Awareness and understanding
-Skill Level 2 - Detailed understanding
-Skill Level 3 - Enhanced awareness and understanding
-Skill Level 4 - Expert understanding, knowledge and skill
-
-
-Competency Proficiency Scale
 https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale
-1 - Fundamental awareness (basic knowledge)
-2 - Novice (limited experience)
-3 - Intermediate (practical application)
-4 - Advanced (applied theory)
-5 - Expert (recognized authority)
+
+| Level | Description |
+| ----- | ----- | ----- |
+| 1 | Fundamental awareness (basic knowledge) |
+| 2 | Novice (limited experience) |
+| 3 | Intermediate (practical application) |
+| 4 | Advanced (applied theory) |
+| 5 | Expert (recognized authority)
+
+## RESMAG
+
+| Level | Description |
+| ----- | ----- | 
+| HCSA | Healthcare Science Associate |
+| RE | Rehabilitation Engineer (registered Healthcare Science Practitioner) |
+| CE | Clinical Engineer (registered Healthcare Scientist) |
